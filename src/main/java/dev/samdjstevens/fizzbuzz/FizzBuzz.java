@@ -27,7 +27,7 @@ public class FizzBuzz {
      * @param number The number we want the output for, e.g. 1, 2, 3, etc.
      * @return The string to output for the number, e.g. "1", "two", "Fizz", etc.
      */
-    private String getStringForNumber(int number) {
+    protected String getStringForNumber(int number) {
         // If divisible by both 3 and 5, return FizzBuzz
         if (number % 3 == 0 && number % 5 == 0) {
             return "FizzBuzz";

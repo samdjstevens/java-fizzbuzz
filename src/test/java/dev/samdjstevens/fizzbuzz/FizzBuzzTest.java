@@ -6,7 +6,7 @@ import org.junit.Test;
 public class FizzBuzzTest {
 
     @Test
-    public void testFizz() {
+    public void testGame() {
         FizzBuzz game = new FizzBuzz();
         assertEquals(this.getCorrectOutputUpTo30(), game.run(30));
     }
