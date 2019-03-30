@@ -1,4 +1,4 @@
-package dev.samdjstevens.fizzbuzz;
+package dev.samstevens.fizzbuzz;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

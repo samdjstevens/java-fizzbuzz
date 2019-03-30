@@ -1,4 +1,4 @@
-package dev.samdjstevens.fizzbuzz;
+package dev.samstevens.fizzbuzz;
 
 import java.util.HashMap;
 import java.util.Set;

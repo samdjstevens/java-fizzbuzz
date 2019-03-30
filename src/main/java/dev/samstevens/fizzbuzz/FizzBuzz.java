@@ -1,4 +1,4 @@
-package dev.samdjstevens.fizzbuzz;
+package dev.samstevens.fizzbuzz;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
